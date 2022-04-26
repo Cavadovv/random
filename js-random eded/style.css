@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    margin-top: 25%;
+    margin-left: 45%;
+    padding: 10px 30px;
+    background-color: blueviolet;
+    color: #fff;
+    border-color: blue;
+}
